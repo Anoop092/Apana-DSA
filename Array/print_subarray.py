@@ -1,6 +1,6 @@
 # Find all subarrays in give array
 
-arr = [1,2,3,4,5,6,7]
+arr = [1,2,3,4,5,6,7,8]
 arr_2 = [2,3,4,5,6,7]
 
 for start_index in range(0,len(arr)):
